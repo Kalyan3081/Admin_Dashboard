@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Box, List, ListItem, ListItemText, Typography, useTheme } from "@mui/material";
 import { tokens } from "../../theme";
-import Header from "../../components/header";
+import Header from "../../components/Header.jsx";
 import FullCalendar from "@fullcalendar/react";
 import { formatDate } from "@fullcalendar/core"; // Correct import
 import dayGridPlugin from "@fullcalendar/daygrid";

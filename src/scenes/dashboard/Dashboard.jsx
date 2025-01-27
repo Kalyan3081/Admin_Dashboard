@@ -1,7 +1,7 @@
 import { Box, Button, useTheme } from "@mui/material";
 import { tokens } from "../../theme";
 import DownloadOutlinedIcon from "@mui/icons-material/DownloadOutlined";
-import Header from "../../components/Header";
+import Header from "../../components/Header.jsx";
 import Grids from "./components/Grids";
 
 const Dashboard = () => {

@@ -5,9 +5,8 @@ import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { tokens } from "../../theme";
-
 import React from 'react'
-import Header from "../../components/header";
+import Header from "../../components/Header.jsx";
 
 const Faq = () => {
 

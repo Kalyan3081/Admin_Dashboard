@@ -1,6 +1,6 @@
 import { Box, Button, TextField, useMediaQuery } from '@mui/material'
 import * as yup from "yup";
-import Header from '../../components/header'
+import Header from '../../components/Header.jsx'
 import { Formik } from 'formik'
 
 const initialValues = {

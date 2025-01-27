@@ -2,7 +2,7 @@ import { Box, useTheme } from '@mui/material'
 import React from 'react'
 import GeographyChart from '../../components/GeographyChart'
 import { tokens } from '../../theme'
-import Header from '../../components/Header'
+import Header from '../../components/Header.jsx'
 
 const Geography = () => {
 
